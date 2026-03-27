@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "app_id": "app_812bba0f-03ba-42f6-9d64-5493074355fb",
+      "org_id": "orga_79ebcf4e-8934-443c-87a7-07c11d442f48",
+      "deploy_url": "https://github.com/sergejomon/watermelon-vue.git",
+      "git_ssh_url": "https://github.com/sergejomon/watermelon-vue.git",
+      "name": "watermelon-vue",
+      "alias": "watermelon-vue"
+    }
+  ]
+}
